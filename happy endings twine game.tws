@@ -1,2439 +1,0 @@
-(dp0
-S'buildDestination'
-p1
-S''
-p2
-sS'saveDestination'
-p3
-S'C:\\Users\\stell\\happy endings twine game.tws'
-p4
-sS'metadata'
-p5
-(dp6
-sS'target'
-p7
-S'sugarcane'
-p8
-sS'storyPanel'
-p9
-(dp10
-S'widgets'
-p11
-(lp12
-(dp13
-S'selected'
-p14
-I00
-sS'pos'
-p15
-(lp16
-I10
-aI10
-asS'passage'
-p17
-(itiddlywiki
-Tiddler
-p18
-(dp20
-S'text'
-p21
-VChoose your avatar\u000a\u000a[[Mary]]\u000a\u000a[[John]]
-p22
-sS'title'
-p23
-VRestart
-p24
-sS'modified'
-p25
-ctime
-struct_time
-p26
-((I2020
-I11
-I24
-I17
-I45
-I13
-I1
-I329
-I0
-tp27
-(dp28
-tp29
-Rp30
-sS'tags'
-p31
-(lp32
-sS'created'
-p33
-g26
-((I2020
-I11
-I20
-I17
-I43
-I45
-I4
-I325
-I0
-tp34
-(dp35
-tp36
-Rp37
-sbsa(dp38
-g14
-I00
-sg15
-(lp39
-I10
-aI150
-asg17
-(itiddlywiki
-Tiddler
-p40
-(dp41
-g21
-VHappy endings\u000a
-p42
-sg23
-VStoryTitle
-p43
-sg25
-g26
-((I2020
-I11
-I20
-I17
-I45
-I53
-I4
-I325
-I0
-tp44
-(dp45
-tp46
-Rp47
-sg31
-(lp48
-sg33
-g26
-((I2020
-I11
-I20
-I17
-I43
-I45
-I4
-I325
-I0
-tp49
-(dp50
-tp51
-Rp52
-sbsa(dp53
-g14
-I00
-sg15
-(lp54
-I10
-aI290
-asg17
-(itiddlywiki
-Tiddler
-p55
-(dp56
-g21
-VStella Fournier\u000a
-p57
-sg23
-VStoryAuthor
-p58
-sg25
-g26
-((I2020
-I11
-I20
-I17
-I45
-I59
-I4
-I325
-I0
-tp59
-(dp60
-tp61
-Rp62
-sg31
-(lp63
-sg33
-g26
-((I2020
-I11
-I20
-I17
-I43
-I45
-I4
-I325
-I0
-tp64
-(dp65
-tp66
-Rp67
-sbsa(dp68
-g14
-I00
-sg15
-(lp69
-F237.55125284738045
-aF52.535307517084284
-asg17
-(itiddlywiki
-Tiddler
-p70
-(dp71
-g21
-VYou meet Mary at a bar called Folie Légère.\u000a\u000a[[You fall in love with Mary]]\u000a\u000a[[You have no feelings for Mary]]
-p72
-sg23
-VJohn
-p73
-sg25
-g26
-((I2020
-I11
-I21
-I15
-I10
-I58
-I5
-I326
-I0
-tp74
-(dp75
-tp76
-Rp77
-sg31
-(lp78
-sg33
-g26
-((I2020
-I11
-I20
-I17
-I44
-I15
-I4
-I325
-I0
-tp79
-(dp80
-tp81
-Rp82
-sbsa(dp83
-g14
-I00
-sg15
-(lp84
-F101.64920273348524
-aF1432.4100227790416
-asg17
-(itiddlywiki
-Tiddler
-p85
-(dp86
-g21
-VYou meet John at Boire un Coup Café. \u000a\u000a\u000a[[You fall in love with John]]\u000a\u000a[[You have no feelings for John]]
-p87
-sg23
-VMary
-p88
-sg25
-g26
-((I2020
-I11
-I21
-I2
-I42
-I15
-I5
-I326
-I0
-tp89
-(dp90
-tp91
-Rp92
-sg31
-(lp93
-sg33
-g26
-((I2020
-I11
-I20
-I17
-I44
-I15
-I4
-I325
-I0
-tp94
-(dp95
-tp96
-Rp97
-sbsa(dp98
-g14
-I00
-sg15
-(lp99
-F477.4328018223234
-aF59.89749430523919
-asg17
-(itiddlywiki
-Tiddler
-p100
-(dp101
-g21
-VYou have no feelings for Mary, but you know Mary likes you a little too much so you just go with the flow.\u000aYou go to Mary's apartment twice a week to eat dinner that Mary cooks. \u000aYou never take her out to a restaurant because you don't think she's worth the price.\u000aYou fuck her.\u000aYou can tell that Mary dies to have sex everytime so you think it's alright to use her body for pleasure. \u000aAfter you fuck her, you fall asleep.\u000aYou wake up, get dressed, and leave without a "good-night."\u000a\u000a[[You come back to Mary's apartment]]\u000a\u000a[[You take another girl, Madge, on a date]]
-p102
-sg23
-VYou have no feelings for Mary
-p103
-sg25
-g26
-((I2020
-I11
-I21
-I17
-I26
-I22
-I5
-I326
-I0
-tp104
-(dp105
-tp106
-Rp107
-sg31
-(lp108
-sg33
-g26
-((I2020
-I11
-I20
-I17
-I45
-I41
-I4
-I325
-I0
-tp109
-(dp110
-tp111
-Rp112
-sbsa(dp113
-g14
-I00
-sg15
-(lp114
-F240.33485193621863
-aF494.1640091116173
-asg17
-(itiddlywiki
-Tiddler
-p115
-(dp116
-g21
-VYou feel different whenever you are with Mary. \u000aYou think she's so pretty when she laughs.\u000a\u000aHowever,\u000a[[You are married and has settled down long ago]]\u000a\u000aIf you want a simple happy ending, choose:\u000a[[You are single, very ready to mingle]]
-p117
-sg23
-VYou fall in love with Mary
-p118
-sg25
-g26
-((I2020
-I11
-I21
-I17
-I37
-I13
-I5
-I326
-I0
-tp119
-(dp120
-tp121
-Rp122
-sg31
-(lp123
-sg33
-g26
-((I2020
-I11
-I20
-I17
-I45
-I41
-I4
-I325
-I0
-tp124
-(dp125
-tp126
-Rp127
-sbsa(dp128
-g14
-I00
-sg15
-(lp129
-F755.8815489749431
-aF8.637813211845103
-asg17
-(itiddlywiki
-Tiddler
-p130
-(dp131
-g21
-VAfter a day working as an Urber driver, you feel like having sex so you go to Mary's apartment.\u000aMary made you dinner.\u000aShe hits up some of your favorite Trader Joe's frozen food.\u000aAfter dinner, you fuck her.\u000aIt sounds like she's very into it so you keep doing it. \u000aAfter you fuck her, you fall asleep.\u000aYou wake up, get dressed, and leave without a "good-night."\u000a\u000a[[You come back to Mary's apartment]]\u000a\u000a[[You take another girl, Madge, on a date]]
-p132
-sg23
-VYou come back to Mary's apartment
-p133
-sg25
-g26
-((I2020
-I11
-I21
-I17
-I30
-I49
-I5
-I326
-I0
-tp134
-(dp135
-tp136
-Rp137
-sg31
-(lp138
-sg33
-g26
-((I2020
-I11
-I20
-I17
-I57
-I10
-I4
-I325
-I0
-tp139
-(dp140
-tp141
-Rp142
-sbsa(dp143
-g14
-I00
-sg15
-(lp144
-F690.3189066059225
-aF184.66514806378134
-asg17
-(itiddlywiki
-Tiddler
-p145
-(dp146
-g21
-VYou meet Madge and start to have feelings for Madge.\u000aYou take her out on a date to a fancy restaurant called Five Star Burrito. \u000aYou have a great time with Madge.\u000aYou can relate to Madge a lot: you both have a small dog, you both like going to roof tops and have a drink, you both love collecting first edition sci-fi magazines. \u000a\u000aYou see a news about a woman commited suicide on sleeping pills and aspirins, find out that it is Mary, the girl you had a great time fucking.\u000aYou are perplexed and have no remorse.\u000a\u000a[[You marry Madge]]
-p147
-sg23
-VYou take another girl, Madge, on a date
-p148
-sg25
-g26
-((I2020
-I11
-I21
-I17
-I34
-I12
-I5
-I326
-I0
-tp149
-(dp150
-tp151
-Rp152
-sg31
-(lp153
-sg33
-g26
-((I2020
-I11
-I20
-I17
-I57
-I10
-I4
-I325
-I0
-tp154
-(dp155
-tp156
-Rp157
-sbsa(dp158
-g14
-I00
-sg15
-(lp159
-F873.0683371298404
-aF135.63325740318913
-asg17
-(itiddlywiki
-Tiddler
-p160
-(dp161
-g21
-VYou and Madge both have worthwhile and remunerative jobs. \u000aYou buy a charming house. \u000aYou have two children and they turn out well. \u000aYou have a stimulating and challenging sex life\u000aand worthwhile friends. \u000aYou go on fun vacations together. \u000aBoth retire. \u000aYou have hobbies which you find stimulating and challenging. Eventually you and Madge die. \u000a\u000aThe End...\u000a\u000a[[Restart]]\u000a\u000a[[Press this after you have played three times]]\u000a
-p162
-sg23
-VYou marry Madge
-p163
-sg25
-g26
-((I2020
-I11
-I24
-I19
-I36
-I2
-I1
-I329
-I0
-tp164
-(dp165
-tp166
-Rp167
-sg31
-(lp168
-sg33
-g26
-((I2020
-I11
-I20
-I18
-I5
-I39
-I4
-I325
-I0
-tp169
-(dp170
-tp171
-Rp172
-sbsa(dp173
-g14
-I00
-sg15
-(lp174
-F338.99544419134367
-aF1313.4145785876983
-asg17
-(itiddlywiki
-Tiddler
-p175
-(dp176
-g21
-VYou feel different whenever you are with John. \u000aYour heart beats a little faster whenever he smiles at you.\u000aBut...\u000a[[You are married. You settled down long ago]]\u000a\u000aIf you want a simple happy ending, choose:\u000a[[You are single, ready to mingle]]\u000a
-p177
-sg23
-VYou fall in love with John
-p178
-sg25
-g26
-((I2020
-I11
-I24
-I17
-I34
-I26
-I1
-I329
-I0
-tp179
-(dp180
-tp181
-Rp182
-sg31
-(lp183
-sg33
-g26
-((I2020
-I11
-I20
-I18
-I7
-I42
-I4
-I325
-I0
-tp184
-(dp185
-tp186
-Rp187
-sbsa(dp188
-g14
-I00
-sg15
-(lp189
-F431.55353075170797
-aF2036.519362186788
-asg17
-(itiddlywiki
-Tiddler
-p190
-(dp191
-g21
-VYou have no feelings for John, but you know he likes you a little too much so you just go with flow.\u000aYou accepts his date to go to facy restaurants because why not?\u000aIt always feel awkward because you can't really relate to John. \u000aHe likes the nature, hiking, exploring new cultures, but you like staying at home, shoping, and play video games.\u000aYou go back to his apartment and he fucks you.\u000aYou can tell that Jojn dies to have sex everytime and it's also pleasurable for you so you pretend you're loving it.\u000aAfter sex, you fall asleep.\u000aYou wake up, get dressed, and leave without a "good-night."\u000a\u000a[[You come back to John's apartment]]\u000a\u000a[[You go on a date with Joe]]
-p192
-sg23
-VYou have no feelings for John
-p193
-sg25
-g26
-((I2020
-I11
-I20
-I18
-I15
-I56
-I4
-I325
-I0
-tp194
-(dp195
-tp196
-Rp197
-sg31
-(lp198
-sg33
-g26
-((I2020
-I11
-I20
-I18
-I7
-I42
-I4
-I325
-I0
-tp199
-(dp200
-tp201
-Rp202
-sbsa(dp203
-g14
-I00
-sg15
-(lp204
-F740.5763097949895
-aF1979.330296127562
-asg17
-(itiddlywiki
-Tiddler
-p205
-(dp206
-g21
-VYou meet Joe at a friend's party and starts to have feelings for him.\u000aYou say yes to going on a day with him. \u000aYou have a great time with Joe.\u000aYou can relate to Joe a lot: your favorite soft drink is coca-cola, you both love to go to amusement parks and have that adreneline rush, you both love watching horror films...\u000aYou see a news about a man commited suicide jumping off of John's apartment's rooftop, find out that it is John.\u000aYou are perplexed and have no remorse.\u000a\u000a[[You marry Joe]]
-p207
-sg23
-VYou go on a date with Joe
-p208
-sg25
-g26
-((I2020
-I11
-I20
-I18
-I21
-I32
-I4
-I325
-I0
-tp209
-(dp210
-tp211
-Rp212
-sg31
-(lp213
-sg33
-g26
-((I2020
-I11
-I20
-I18
-I16
-I0
-I4
-I325
-I0
-tp214
-(dp215
-tp216
-Rp217
-sbsa(dp218
-g14
-I00
-sg15
-(lp219
-F751.7927107061508
-aF2142.7517084282417
-asg17
-(itiddlywiki
-Tiddler
-p220
-(dp221
-g21
-VJohn asks you out to a date.\u000aYou accepts his date to go to a facy restaurants because why not?\u000aIt always feels awkward because you can't really relate to John. \u000aHe likes the nature, hiking, exploring new cultures, but you like staying at home, shoping, and play video games.\u000aYou go back to his apartment and he fucks you.\u000aYou can tell that Jojn dies to have sex everytime and it's also pleasurable for you so you pretend you're loving it.\u000aAfter sex, you fall asleep.\u000aYou wake up, get dressed, and leave without a "good-night."\u000a\u000a[[You come back to John's apartment]]\u000a
-p222
-sg23
-VYou come back to John's apartment
-p223
-sg25
-g26
-((I2020
-I11
-I20
-I18
-I22
-I43
-I4
-I325
-I0
-tp224
-(dp225
-tp226
-Rp227
-sg31
-(lp228
-sg33
-g26
-((I2020
-I11
-I20
-I18
-I16
-I0
-I4
-I325
-I0
-tp229
-(dp230
-tp231
-Rp232
-sbsa(dp233
-g14
-I00
-sg15
-(lp234
-F1017.8359908883833
-aF1997.9248291571728
-asg17
-(itiddlywiki
-Tiddler
-p235
-(dp236
-g21
-VYou and Joe both have worthwhile and remunerative jobs. \u000aYou buy a charming house. \u000aYou have two children and they turn out well. \u000aYou have a stimulating and challenging sex life\u000aand worthwhile friends. \u000aYou go on fun vacations together. \u000aBoth retire. \u000aYou have hobbies which you find stimulating and challenging. Eventually you and Joe die. \u000a\u000aThe End...\u000a\u000a[[Restart]]\u000a\u000a[[Press this after you have played three times]]
-p237
-sg23
-VYou marry Joe
-p238
-sg25
-g26
-((I2020
-I11
-I24
-I19
-I36
-I58
-I1
-I329
-I0
-tp239
-(dp240
-tp241
-Rp242
-sg31
-(lp243
-sg33
-g26
-((I2020
-I11
-I20
-I18
-I21
-I39
-I4
-I325
-I0
-tp244
-(dp245
-tp246
-Rp247
-sbsa(dp248
-g14
-I00
-sg15
-(lp249
-F771.2892938496609
-aF1706.0592255125264
-asg17
-(itiddlywiki
-Tiddler
-p250
-(dp251
-g21
-VYou like John so much that you would do anything for him.\u000aYou can tell that John doesn't really like you, but doesn't want to admit the fact. \u000aYou invite John to your apartment and cooks dinner for him.\u000aYou make his favorite, coq au vin. \u000aJohn drinks a whole bottle of wine and pushes you to the bed and fucks you. \u000aAfter sex, John falls asleep.\u000aYou get up, do the dishes, and put on some makeup, hoping that he'll notice and compliments you. \u000aJohn wakes up and leave, he didn't say "good-night," thinking that he might just forgot about it, not a big of a deal.\u000a\u000a[[Three days late, you invite John back to your apartment]]
-p252
-sg23
-VJohn doesn't like you back
-p253
-sg25
-g26
-((I2020
-I11
-I24
-I17
-I35
-I23
-I1
-I329
-I0
-tp254
-(dp255
-tp256
-Rp257
-sg31
-(lp258
-sg33
-g26
-((I2020
-I11
-I20
-I18
-I25
-I42
-I4
-I325
-I0
-tp259
-(dp260
-tp261
-Rp262
-sbsa(dp263
-g14
-I00
-sg15
-(lp264
-F1024.5489749430562
-aF1695.37813211845
-asg17
-(itiddlywiki
-Tiddler
-p265
-(dp266
-g21
-VJohn comes back to your apartment and eats the food that you cooked for him.\u000aToday, you make steak tacos with chips and salsa.\u000aAfter dinner, John pushes you to the bed and fucks you. \u000aWhile he's asleep, you get up, do the dishes, and put on some makeup and perfume, hoping that he'll notice and compliments you. \u000aJohn wakes up and leave, hoping he will say "night, sweat heart" this time, but he didn't.\u000a\u000a[[Three days later, you invite him to your apartment, again]]\u000a\u000a[[You get run-down]]
-p267
-sg23
-VThree days late, you invite John back to your apartment
-p268
-sg25
-g26
-((I2020
-I11
-I21
-I14
-I55
-I19
-I5
-I326
-I0
-tp269
-(dp270
-tp271
-Rp272
-sg31
-(lp273
-sg33
-g26
-((I2020
-I11
-I20
-I18
-I31
-I24
-I4
-I325
-I0
-tp274
-(dp275
-tp276
-Rp277
-sbsa(dp278
-g14
-I00
-sg15
-(lp279
-F1240.765375854214
-aF1542.7129840546693
-asg17
-(itiddlywiki
-Tiddler
-p280
-(dp281
-g21
-VYou still can't admit the fact that John doesn't like you. \u000aYou don't like to have sex but you pretend to die to have sex everytime because you want him to get used to your existence and marry you one day.\u000aYou cry all day.\u000aYou are so depressed.\u000aWhen you go to work, your co-workers tell you that John is A RAT, A PIG, A DOG, and that he isn't good enough for you.\u000aYou don't want to believe their words because you can't let go of your feelings. \u000aBut why?\u000aWhy John, this stupid person that only uses your body for pleasure?\u000aThere are a million other guys out there that would love you and care for you.\u000aBut your stuck with your feelings and your belief that one day he will realize how good of a person you are and love you the way you do to him.\u000aAt the same time, you know that's never going to happen.\u000aWhat's wrong with you?\u000a\u000a[[next page]]
-p282
-sg23
-VYou get run-down
-p283
-sg25
-g26
-((I2020
-I11
-I24
-I17
-I41
-I0
-I1
-I329
-I0
-tp284
-(dp285
-tp286
-Rp287
-sg31
-(lp288
-sg33
-g26
-((I2020
-I11
-I20
-I18
-I34
-I29
-I4
-I325
-I0
-tp289
-(dp290
-tp291
-Rp292
-sbsa(dp293
-g14
-I00
-sg15
-(lp294
-F1290.2574031890656
-aF1781.7243735763093
-asg17
-(itiddlywiki
-Tiddler
-p295
-(dp296
-g21
-VJohn comes back to your apartment and eats the food that you cooked for him.\u000aToday, you made eggplant parmesean.\u000aAfter dinner, John pushes you to the bed and fucks you. \u000aWhile he's asleep, you get up, do the dishes, and put on some makeup and perfume, hoping that he'll notice and compliments me. \u000aJohn wakes up and leave\u000aYou hope he will you say "night, sweat heart" this time, but he didn't.\u000a\u000a[[Three days later, you invite him to your apartment, again]]\u000a\u000a[[You get run-down]]
-p297
-sg23
-VThree days later, you invite him to your apartment, again
-p298
-sg25
-g26
-((I2020
-I11
-I24
-I17
-I36
-I46
-I1
-I329
-I0
-tp299
-(dp300
-tp301
-Rp302
-sg31
-(lp303
-sg33
-g26
-((I2020
-I11
-I20
-I18
-I34
-I29
-I4
-I325
-I0
-tp304
-(dp305
-tp306
-Rp307
-sbsa(dp308
-g14
-I00
-sg15
-(lp309
-F1489.7061503416846
-aF1538.615034168564
-asg17
-(itiddlywiki
-Tiddler
-p310
-(dp311
-g21
-VYour friends tell you that John took a woman named Madge out on a date to a restaurant called The Fanciest Chong's Kitchen. \u000aYour heart broke into pieces because he never took you out to a restaurant. \u000aYour heart sinks and you can barely breath.\u000aYou know that John's suppose to come to my appartment tonight so you take all the sleeping pills and aspirins you can find.\u000aYou leave a note:\u000a\u000a	I love you, John. \u000a	Please don't leave me.\u000a\u000a\u000aYou hope that he'll discover you and get you to the hospital in time.\u000aYou hope that he'll repend and realize how good of a person you are and finally marries you.\u000a\u000a[[John went to your apartment and discovers you]]\u000a\u000a[[John was out with Madge]] 
-p312
-sg23
-Vnext page
-p313
-sg25
-g26
-((I2020
-I11
-I24
-I17
-I43
-I20
-I1
-I329
-I0
-tp314
-(dp315
-tp316
-Rp317
-sg31
-(lp318
-sg33
-g26
-((I2020
-I11
-I20
-I18
-I41
-I32
-I4
-I325
-I0
-tp319
-(dp320
-tp321
-Rp322
-sbsa(dp323
-g14
-I00
-sg15
-(lp324
-F1736.009111617311
-aF1523.2209567198177
-asg17
-(itiddlywiki
-Tiddler
-p325
-(dp326
-g21
-VYou die from overdose. \u000aAfter a few weeks:\u000a\u000a[[John marries Madge]]\u000a
-p327
-sg23
-VJohn was out with Madge
-p328
-sg25
-g26
-((I2020
-I11
-I21
-I15
-I0
-I1
-I5
-I326
-I0
-tp329
-(dp330
-tp331
-Rp332
-sg31
-(lp333
-sg33
-g26
-((I2020
-I11
-I20
-I18
-I47
-I26
-I4
-I325
-I0
-tp334
-(dp335
-tp336
-Rp337
-sbsa(dp338
-g14
-I00
-sg15
-(lp339
-F1545.8724373576297
-aF1743.5671981776743
-asg17
-(itiddlywiki
-Tiddler
-p340
-(dp341
-g21
-VJohn is shocked and called 911. \u000aYou recover. \u000a\u000a\u000a[[Three days late, you invite John back to your apartment]]
-p342
-sg23
-VJohn went to your apartment and discovers you
-p343
-sg25
-g26
-((I2020
-I11
-I20
-I18
-I51
-I24
-I4
-I325
-I0
-tp344
-(dp345
-tp346
-Rp347
-sg31
-(lp348
-sg33
-g26
-((I2020
-I11
-I20
-I18
-I47
-I26
-I4
-I325
-I0
-tp349
-(dp350
-tp351
-Rp352
-sbsa(dp353
-g14
-I00
-sg15
-(lp354
-F1975.5876993166275
-aF1504.3120728929377
-asg17
-(itiddlywiki
-Tiddler
-p355
-(dp356
-g21
-VJohn and Madge both have worthwhile and remunerative jobs. \u000aThey buy a charming house. \u000aThey have two children and they turn out well. \u000aThey have a stimulating and challenging sex life\u000aand worthwhile friends. \u000aThey go on fun vacations together. \u000aBoth retire. \u000aThey have hobbies which they find stimulating and challenging.\u000aEventually John and Madge die. \u000a\u000aThe End...\u000a\u000a[[Restart]]\u000a\u000a[[Press this after you have played three times]]
-p357
-sg23
-VJohn marries Madge
-p358
-sg25
-g26
-((I2020
-I11
-I24
-I17
-I44
-I49
-I1
-I329
-I0
-tp359
-(dp360
-tp361
-Rp362
-sg31
-(lp363
-sg33
-g26
-((I2020
-I11
-I20
-I18
-I53
-I54
-I4
-I325
-I0
-tp364
-(dp365
-tp366
-Rp367
-sbsa(dp368
-g14
-I00
-sg15
-(lp369
-F450.362186788155
-aF373.34168564920265
-asg17
-(itiddlywiki
-Tiddler
-p370
-(dp371
-g21
-VYou fall in love with Mary and tell her how important she is to you.\u000aYou have a wife named Madge and you know that you can't leave her becasue commitment is a commitment. \u000aMary spends time with you, except Thursdays.\u000aOne day, you go back to Mary's apartment and find Mary and a guy named James stoned and entwined. \u000aYour heart is broken into pieces.\u000aThough you know your not in any position to be jealous, considering Madge, but you're overcome with despair. \u000aYou want everything to end because you want Mary so bad, even though knowning you will never be with her because of Madge.\u000a\u000a\u000a[[You purchase a gun]]\u000a\u000a
-p372
-sg23
-VYou are married and has settled down long ago
-p373
-sg25
-g26
-((I2020
-I11
-I21
-I15
-I12
-I50
-I5
-I326
-I0
-tp374
-(dp375
-tp376
-Rp377
-sg31
-(lp378
-sg33
-g26
-((I2020
-I11
-I20
-I18
-I58
-I37
-I4
-I325
-I0
-tp379
-(dp380
-tp381
-Rp382
-sbsa(dp383
-g14
-I00
-sg15
-(lp384
-F294.51252847380414
-aF683.2779043280185
-asg17
-(itiddlywiki
-Tiddler
-p385
-(dp386
-g21
-VNow, you wonder if Mary likes you back.\u000aYou believe that she likes you back since she keeps hanging out with you. \u000aThe truth is:\u000a\u000a[[Mary likes you back]]\u000a\u000a[[Mary doesn't like you back]]\u000a\u000a
-p387
-sg23
-VYou are single, very ready to mingle
-p388
-sg25
-g26
-((I2020
-I11
-I21
-I15
-I14
-I14
-I5
-I326
-I0
-tp389
-(dp390
-tp391
-Rp392
-sg31
-(lp393
-sg33
-g26
-((I2020
-I11
-I20
-I18
-I58
-I37
-I4
-I325
-I0
-tp394
-(dp395
-tp396
-Rp397
-sbsa(dp398
-g14
-I00
-sg15
-(lp399
-F677.0273348519364
-aF403.95216400911136
-asg17
-(itiddlywiki
-Tiddler
-p400
-(dp401
-g21
-VYou shoot Mary and James and points the gun in your throat, and shoot yourself.\u000a\u000aAfter a suitable period of mourning,\u000a\u000a[[Madge marries Fred]]
-p402
-sg23
-VYou purchase a gun
-p403
-sg25
-g26
-((I2020
-I11
-I20
-I19
-I19
-I34
-I4
-I325
-I0
-tp404
-(dp405
-tp406
-Rp407
-sg31
-(lp408
-sg33
-g26
-((I2020
-I11
-I20
-I19
-I7
-I30
-I4
-I325
-I0
-tp409
-(dp410
-tp411
-Rp412
-sbsa(dp413
-g14
-I00
-sg15
-(lp414
-F944.995444191344
-aF395.7790432801827
-asg17
-(itiddlywiki
-Tiddler
-p415
-(dp416
-g21
-VThey have a charming house by the seashort.\u000aOne day, a giant tidal wave approaches destroying their house.\u000aThey survived from the giant tidal wave.\u000aReal estate values go down.\u000aThey are broke, but they are virtuous and grateful.\u000a\u000a[[Fred has a bad heart]]\u000a\u000a[[Madge is guity and confused]]\u000a\u000a[[Fred gets cancer]]\u000a\u000a[[Madge gets cancer]]\u000a\u000a
-p417
-sg23
-VMadge marries Fred
-p418
-sg25
-g26
-((I2020
-I11
-I21
-I17
-I42
-I11
-I5
-I326
-I0
-tp419
-(dp420
-tp421
-Rp422
-sg31
-(lp423
-sg33
-g26
-((I2020
-I11
-I20
-I19
-I8
-I18
-I4
-I325
-I0
-tp424
-(dp425
-tp426
-Rp427
-sbsa(dp428
-g14
-I00
-sg15
-(lp429
-F1330.6287015945338
-aF417.7084282460138
-asg17
-(itiddlywiki
-Tiddler
-p430
-(dp431
-g21
-VFred needs to be at the hospital a lot. \u000aMadge is kind and understanding, and she stays by Fred's side whenever he is in the hospital.\u000aFred has a heart attack and dies. \u000aMadge devotes herself to charity work.\u000aShe takes care of the two children.\u000aShe have worthwhile friends.\u000aShe takes her kids on fun cavations.\u000aShe retire.\u000aEventaully Madge dies.\u000a\u000aThe End...\u000a\u000a[[Restart]]\u000a\u000a[[Press this after you have played three times]]
-p432
-sg23
-VFred has a bad heart
-p433
-sg25
-g26
-((I2020
-I11
-I24
-I17
-I45
-I45
-I1
-I329
-I0
-tp434
-(dp435
-tp436
-Rp437
-sg31
-(lp438
-sg33
-g26
-((I2020
-I11
-I20
-I19
-I11
-I29
-I4
-I325
-I0
-tp439
-(dp440
-tp441
-Rp442
-sbsa(dp443
-g14
-I00
-sg15
-(lp444
-F1174.7152619589986
-aF150.31890660592273
-asg17
-(itiddlywiki
-Tiddler
-p445
-(dp446
-g21
-VMadge is guity and confused about what John did.\u000aShe never had the truth about why he did what he did. \u000aThis didn't stop her from loving Fred though.\u000aFred is kind and understanding.\u000aHe stays by Madge's side whenever she needs some company and gives her space whenever she needs it.\u000a\u000aThey both find worthwhile and remunerative jobs. \u000aThey buy a charming house. \u000aThey have a son and a goofy dog.\u000aThey love their son.\u000aThey have a stimulating and challenging sex life and worthwhile friends. \u000aThey go on fun vacations together. \u000aThey retire. \u000aThey have hobbies which they find stimulating and challenging. \u000aEventually Madge and Fred die. \u000a\u000aThe End...\u000a\u000a[[Restart]]\u000a\u000a[[Press this after you have played three times]]
-p447
-sg23
-VMadge is guity and confused
-p448
-sg25
-g26
-((I2020
-I11
-I24
-I19
-I37
-I36
-I1
-I329
-I0
-tp449
-(dp450
-tp451
-Rp452
-sg31
-(lp453
-sg33
-g26
-((I2020
-I11
-I20
-I19
-I15
-I1
-I4
-I325
-I0
-tp454
-(dp455
-tp456
-Rp457
-sbsa(dp458
-g14
-I00
-sg15
-(lp459
-F1313.9908883826886
-aF256.9407744874718
-asg17
-(itiddlywiki
-Tiddler
-p460
-(dp461
-g21
-VFred gets cancer.\u000aHis hair sheds and he is depressed.\u000aMadge is kind and understanding, and she stays by Fred's side.\u000aThe cancer spreads and it's getting worse and worse.\u000aHe dies.\u000aMadge devotes herself to charity work.\u000aShe takes care of their two children.\u000aShe has worthwhile friends.\u000aShe takes her kids on fun vacations.\u000aShe retires.\u000aEventaully Madge dies.\u000a\u000aThe End...\u000a\u000a[[Restart]]\u000a\u000a[[Press this after you have played three times]]
-p462
-sg23
-VFred gets cancer
-p463
-sg25
-g26
-((I2020
-I11
-I24
-I17
-I45
-I40
-I1
-I329
-I0
-tp464
-(dp465
-tp466
-Rp467
-sg31
-(lp468
-sg33
-g26
-((I2020
-I11
-I21
-I1
-I47
-I33
-I5
-I326
-I0
-tp469
-(dp470
-tp471
-Rp472
-sbsa(dp473
-g14
-I00
-sg15
-(lp474
-F1191.5854214123012
-aF512.1571753986327
-asg17
-(itiddlywiki
-Tiddler
-p475
-(dp476
-g21
-VMadge gets cancer.\u000aHer hair sheds and she is depressed. \u000aFred is kind and understanding, and he stays by Madge's side.\u000aThe cancer spreads and it's getting worse and worse.\u000aShe dies.\u000aFred devotes himself to charity work.\u000aHe takes care of their two children.\u000aHe has worthwhile friends.\u000aHe takes his kids on fun vacations.\u000aHe retires.\u000aEventaully Fred dies.\u000a\u000aThe End...\u000a\u000a[[Restart]]\u000a\u000a[[Press this after you have played three times]]
-p477
-sg23
-VMadge gets cancer
-p478
-sg25
-g26
-((I2020
-I11
-I24
-I19
-I37
-I32
-I1
-I329
-I0
-tp479
-(dp480
-tp481
-Rp482
-sg31
-(lp483
-sg33
-g26
-((I2020
-I11
-I21
-I1
-I47
-I33
-I5
-I326
-I0
-tp484
-(dp485
-tp486
-Rp487
-sbsa(dp488
-g14
-I00
-sg15
-(lp489
-F1887.0
-aF281.0
-asg17
-(itiddlywiki
-Tiddler
-p490
-(dp491
-g21
-VDon't you see it yet?\u000aYou are the avatar you chose.\u000aDo you see it now?\u000aYou will eventually die. \u000aBut what keeps us going?\u000aWhat keeps us going to live our life?\u000aWhat's our motivation?\u000aWhat is our desire?\u000aWhy do we let our emotions kill us like this. \u000aAre you really happy or are you drained by the conventional life you are born to live in?\u000aEery ending is a happy ending because pain ceases.\u000aIf you think you are happy before you die, your wrong, because you are not. \u000aPost death is where the happy ending takes place. \u000aWhatever your name is, you are born to die, to a better place, to cease to exist, that's the best place to be at.\u000a\u000a\u000a\u000a\u000a
-p492
-sg23
-VPress this after you have played three times
-p493
-sg25
-g26
-((I2020
-I11
-I21
-I17
-I47
-I7
-I5
-I326
-I0
-tp494
-(dp495
-tp496
-Rp497
-sg31
-(lp498
-sg33
-g26
-((I2020
-I11
-I21
-I1
-I54
-I22
-I5
-I326
-I0
-tp499
-(dp500
-tp501
-Rp502
-sbsa(dp503
-g14
-I00
-sg15
-(lp504
-F531.9248291571756
-aF1121.706150341685
-asg17
-(itiddlywiki
-Tiddler
-p505
-(dp506
-g21
-VYou fall in love with John and tell him how important he is to you.\u000aYou have a husband named Jose and you know that you can't leave him becasue commitment is a commitment. \u000aJohn spends time with you, except Wednesdays.\u000aOne day, you go back to John's apartment and find John and a woman named Milly stoned and entwined. \u000aYour heart is broken into pieces.\u000aThough you know your not in any position to be jealous, considering Jose, but you're overcome with despair. \u000aYou want everything to end because you want John so bad, even though knowning you will never be with him.\u000a\u000a\u000a[[You buy a gun]]\u000a\u000a
-p507
-sg23
-VYou are married. You settled down long ago
-p508
-sg25
-g26
-((I2020
-I11
-I21
-I14
-I38
-I46
-I5
-I326
-I0
-tp509
-(dp510
-tp511
-Rp512
-sg31
-(lp513
-sg33
-g26
-((I2020
-I11
-I21
-I2
-I17
-I29
-I5
-I326
-I0
-tp514
-(dp515
-tp516
-Rp517
-sbsa(dp518
-g14
-I00
-sg15
-(lp519
-F552.4601366742605
-aF1493.7129840546688
-asg17
-(itiddlywiki
-Tiddler
-p520
-(dp521
-g21
-VNow, you wonder if John likes you back.\u000aYou believe that he likes you back since he keeps hanging out with you. \u000aThe truth is:\u000a\u000a[[John likes you back]]\u000a\u000a[[John doesn't like you back]]\u000a
-p522
-sg23
-VYou are single, ready to mingle
-p523
-sg25
-g26
-((I2020
-I11
-I21
-I14
-I52
-I23
-I5
-I326
-I0
-tp524
-(dp525
-tp526
-Rp527
-sg31
-(lp528
-sg33
-g26
-((I2020
-I11
-I21
-I2
-I17
-I29
-I5
-I326
-I0
-tp529
-(dp530
-tp531
-Rp532
-sbsa(dp533
-g14
-I00
-sg15
-(lp534
-F876.9476082004566
-aF1118.2574031890656
-asg17
-(itiddlywiki
-Tiddler
-p535
-(dp536
-g21
-VYou shoot John and Milly and points the gun in your throat, and shoot yourself.\u000a\u000aAfter a suitable period of mourning,\u000a\u000a[[Jose marries May]]
-p537
-sg23
-VYou buy a gun
-p538
-sg25
-g26
-((I2020
-I11
-I21
-I2
-I22
-I59
-I5
-I326
-I0
-tp539
-(dp540
-tp541
-Rp542
-sg31
-(lp543
-sg33
-g26
-((I2020
-I11
-I21
-I2
-I20
-I17
-I5
-I326
-I0
-tp544
-(dp545
-tp546
-Rp547
-sbsa(dp548
-g14
-I00
-sg15
-(lp549
-F1139.785876993165
-aF1095.765375854214
-asg17
-(itiddlywiki
-Tiddler
-p550
-(dp551
-g21
-VThey have a charming house by the seashort.\u000aOne day, a giant tidal wave approaches destroying their house.\u000aThey survived from the giant tidal wave.\u000aReal estate values go down.\u000aThey are broke, but they are virtuous and grateful.\u000a\u000a[[May has a bad heart]]\u000a\u000a[[Jose gets cancer]]\u000a\u000a[[May gets cancer]]\u000a\u000a[[Jose is guity and confused]]\u000a
-p552
-sg23
-VJose marries May
-p553
-sg25
-g26
-((I2020
-I11
-I21
-I14
-I50
-I13
-I5
-I326
-I0
-tp554
-(dp555
-tp556
-Rp557
-sg31
-(lp558
-sg33
-g26
-((I2020
-I11
-I21
-I2
-I23
-I13
-I5
-I326
-I0
-tp559
-(dp560
-tp561
-Rp562
-sbsa(dp563
-g14
-I00
-sg15
-(lp564
-F1361.0569476082003
-aF1341.674259681092
-asg17
-(itiddlywiki
-Tiddler
-p565
-(dp566
-g21
-VMay needs to be at the hospital a lot. \u000aJose is kind and understanding, and he stays by May's side whenever she is in the hospital.\u000aMay has a heart attack and dies. \u000aJose devotes herself to charity work.\u000aHe takes care of the two children.\u000aHe have worthwhile friends.\u000aHe takes his kids on fun cavations.\u000aHe retires.\u000aEventaully Jose dies.\u000aThe End...\u000a\u000a[[Restart]]\u000a\u000a[[Press this after you have played three times]]
-p567
-sg23
-VMay has a bad heart
-p568
-sg25
-g26
-((I2020
-I11
-I24
-I19
-I37
-I9
-I1
-I329
-I0
-tp569
-(dp570
-tp571
-Rp572
-sg31
-(lp573
-sg33
-g26
-((I2020
-I11
-I21
-I2
-I23
-I43
-I5
-I326
-I0
-tp574
-(dp575
-tp576
-Rp577
-sbsa(dp578
-g14
-I00
-sg15
-(lp579
-F1593.1936218678811
-aF1036.8519362186796
-asg17
-(itiddlywiki
-Tiddler
-p580
-(dp581
-g21
-VJose gets cancer.\u000aHis hair sheds and he is depressed.\u000aMay is kind and understanding, and she stays by Jose's side.\u000aThe cancer spreads and it's getting worse and worse.\u000aHe dies.\u000aMay devotes herself to charity work.\u000aShe takes care of their two children.\u000aShe has worthwhile friends.\u000aShe takes her kids on fun vacations.\u000aShe retires.\u000aEventaully May dies.\u000a\u000aThe End...\u000a\u000a[[Restart]]\u000a\u000a[[Press this after you have played three times]]
-p582
-sg23
-VJose gets cancer
-p583
-sg25
-g26
-((I2020
-I11
-I24
-I17
-I45
-I58
-I1
-I329
-I0
-tp584
-(dp585
-tp586
-Rp587
-sg31
-(lp588
-sg33
-g26
-((I2020
-I11
-I21
-I2
-I23
-I43
-I5
-I326
-I0
-tp589
-(dp590
-tp591
-Rp592
-sbsa(dp593
-g14
-I00
-sg15
-(lp594
-F1529.1867881548967
-aF1209.9658314350788
-asg17
-(itiddlywiki
-Tiddler
-p595
-(dp596
-g21
-VMay gets cancer.\u000aHer hair sheds and she is depressed. \u000aJose is kind and understanding, and he stays by May's side.\u000aThe cancer spreads and it's getting worse and worse.\u000aShe dies.\u000aJose devotes himself to charity work.\u000aHe takes care of their two children.\u000aHe has worthwhile friends.\u000aHe takes his kids on fun vacations.\u000aHe retires.\u000aEventaully Jose dies.\u000a\u000aThe End...\u000a\u000a[[Restart]]\u000a\u000a[[Press this after you have played three times]]
-p597
-sg23
-VMay gets cancer
-p598
-sg25
-g26
-((I2020
-I11
-I24
-I19
-I37
-I15
-I1
-I329
-I0
-tp599
-(dp600
-tp601
-Rp602
-sg31
-(lp603
-sg33
-g26
-((I2020
-I11
-I21
-I2
-I23
-I43
-I5
-I326
-I0
-tp604
-(dp605
-tp606
-Rp607
-sbsa(dp608
-g14
-I00
-sg15
-(lp609
-F815.9088838268801
-aF1436.8656036446475
-asg17
-(itiddlywiki
-Tiddler
-p610
-(dp611
-g21
-VYou and John develope feelings for each other and soon get married. \u000aYou and John both have worthwhile and remunerative jobs. \u000aYou buy a charming house. \u000aYou have two children and they turn out well. \u000aYou have a stimulating and challenging sex life\u000aand worthwhile friends. \u000aYou go on fun vacations together. \u000aBoth retire. \u000aYou have hobbies which you find stimulating and challenging. Eventually you and John die. \u000aThe End...\u000a\u000a[[Restart]]\u000a\u000a[[Press this after you have played three times]]
-p612
-sg23
-VJohn likes you back
-p613
-sg25
-g26
-((I2020
-I11
-I24
-I19
-I37
-I4
-I1
-I329
-I0
-tp614
-(dp615
-tp616
-Rp617
-sg31
-(lp618
-sg33
-g26
-((I2020
-I11
-I21
-I2
-I34
-I51
-I5
-I326
-I0
-tp619
-(dp620
-tp621
-Rp622
-sbsa(dp623
-g14
-I00
-sg15
-(lp624
-F1382.4373576309797
-aF949.3485193621871
-asg17
-(itiddlywiki
-Tiddler
-p625
-(dp626
-g21
-VJose is guity and confused about what Mary did.\u000aHe never had the truth about why she did what she did. \u000aThis didn't stop him from loving May though.\u000aMay is kind and understanding.\u000aShe stays by Jose's side whenever Jose needs some company and gives him space whenever he needs it.\u000a\u000aThey both find worthwhile and remunerative jobs. \u000aThey buy a charming house. \u000aThey have a daughter and she is goofy and quirky. \u000aThey love their daughter.\u000aThey have a stimulating and challenging sex life and worthwhile friends. \u000aThey go on fun vacations together. \u000aThey retire. \u000aThey have hobbies which they find stimulating and challenging. \u000aEventually Jose and May die. \u000a\u000aThe End...\u000a\u000a[[Restart]]\u000a\u000a[[Press this after you have played three times]]
-p627
-sg23
-VJose is guity and confused
-p628
-sg25
-g26
-((I2020
-I11
-I24
-I17
-I46
-I3
-I1
-I329
-I0
-tp629
-(dp630
-tp631
-Rp632
-sg31
-(lp633
-sg33
-g26
-((I2020
-I11
-I21
-I14
-I44
-I45
-I5
-I326
-I0
-tp634
-(dp635
-tp636
-Rp637
-sbsa(dp638
-g14
-I00
-sg15
-(lp639
-F495.28929384965846
-aF691.398633257403
-asg17
-(itiddlywiki
-Tiddler
-p640
-(dp641
-g21
-VYou and Mary develope feelings for each other and soon get married.\u000aYou and Mary both have worthwhile and remunerative jobs. \u000aYou buy a charming house. \u000aYou have two children and they turn out well. \u000aYou have a stimulating and challenging sex life\u000aand worthwhile friends. \u000aYou go on fun vacations together. \u000aBoth retire. \u000aYou have hobbies which you find stimulating and challenging. Eventually you and Mary die. \u000a\u000aThe End...\u000a\u000a[[Restart]]\u000a\u000a[[Press this after you have played three times]]
-p642
-sg23
-VMary likes you back
-p643
-sg25
-g26
-((I2020
-I11
-I24
-I19
-I37
-I44
-I1
-I329
-I0
-tp644
-(dp645
-tp646
-Rp647
-sg31
-(lp648
-sg33
-g26
-((I2020
-I11
-I21
-I15
-I14
-I17
-I5
-I326
-I0
-tp649
-(dp650
-tp651
-Rp652
-sbsa(dp653
-g14
-I00
-sg15
-(lp654
-F496.5011389521641
-aF884.7243735763099
-asg17
-(itiddlywiki
-Tiddler
-p655
-(dp656
-g21
-VYou like Mary so much that you would do anything for her.\u000aYou can tell that she doesn't really like you, but doesn't want to admit the fact. \u000aYou invite Mary to restaurants and she agrees everytime.\u000aYou pay for the dinner everytime.\u000aMary never makes further moves.\u000aYou invite Mary to your apartment.\u000aRight when the foor closes, Mary takes her clothes off and fucks you.\u000aAfter sex, she leaves without saying "good-night."\u000a\u000a[[Three days later, you call Mary and take her our on a date again]]
-p657
-sg23
-VMary doesn't like you back
-p658
-sg25
-g26
-((I2020
-I11
-I21
-I15
-I29
-I36
-I5
-I326
-I0
-tp659
-(dp660
-tp661
-Rp662
-sg31
-(lp663
-sg33
-g26
-((I2020
-I11
-I21
-I15
-I14
-I17
-I5
-I326
-I0
-tp664
-(dp665
-tp666
-Rp667
-sbsa(dp668
-g14
-I00
-sg15
-(lp669
-F697.7084282460136
-aF881.3621867881541
-asg17
-(itiddlywiki
-Tiddler
-p670
-(dp671
-g21
-VYou take Mary to a restaurant.\u000aYou pay for the dinner.\u000aYou invite Mary to your apartment.\u000aRight when the foor closes, Mary kisses you and pushes you on the bed and fucks you.\u000aAfter sex, she leaves without saying "good-night."\u000a\u000a[[Three days later, you call Mary and take her our on a date again]]\u000a\u000a[[You are run down]]
-p672
-sg23
-VThree days later, you call Mary and take her our on a date again
-p673
-sg25
-g26
-((I2020
-I11
-I21
-I15
-I30
-I22
-I5
-I326
-I0
-tp674
-(dp675
-tp676
-Rp677
-sg31
-(lp678
-sg33
-g26
-((I2020
-I11
-I21
-I15
-I18
-I48
-I5
-I326
-I0
-tp679
-(dp680
-tp681
-Rp682
-sbsa(dp683
-g14
-I00
-sg15
-(lp684
-F896.601366742597
-aF835.0341685649208
-asg17
-(itiddlywiki
-Tiddler
-p685
-(dp686
-g21
-VYou still can't admit the fact that Mary doesn't like you. \u000aYou don't like to have sex but you pretend to love it because it seems like all Mary wants is sex.\u000aYou think if you do it enough, Mary will start to develope feelings for you.\u000aBut that never happens.\u000aYou cry all day.\u000aWhen you go to work, your co-workers tell you that Mary is A SNAKE, A PIG, An UGLY KITTEN, and she is using you.\u000aYou don't want to believe their words because you can't let go of your feelings for her. \u000aYou want to believe that one day, Mary will realize how good of a person you are and love you the way you do to her.\u000a\u000a[[Click here for next page]]
-p687
-sg23
-VYou are run down
-p688
-sg25
-g26
-((I2020
-I11
-I21
-I15
-I23
-I41
-I5
-I326
-I0
-tp689
-(dp690
-tp691
-Rp692
-sg31
-(lp693
-sg33
-g26
-((I2020
-I11
-I21
-I15
-I20
-I59
-I5
-I326
-I0
-tp694
-(dp695
-tp696
-Rp697
-sbsa(dp698
-g14
-I00
-sg15
-(lp699
-F1126.9111617312076
-aF787.963553530752
-asg17
-(itiddlywiki
-Tiddler
-p700
-(dp701
-g21
-VYour friends tell you that they found Mary on several different dating apps.  \u000aYour heart broke into pieces.\u000aYour heart sinks and you can barely breath.\u000aYou kill yourself by putting a plugged in hair dryer in the in the bath with your naked body in it.\u000a\u000aWhile...\u000a[[Mary matched with a guy on Burger meets Fries]] 
-p702
-sg23
-VClick here for next page
-p703
-sg25
-g26
-((I2020
-I11
-I21
-I15
-I26
-I56
-I5
-I326
-I0
-tp704
-(dp705
-tp706
-Rp707
-sg31
-(lp708
-sg33
-g26
-((I2020
-I11
-I21
-I15
-I23
-I44
-I5
-I326
-I0
-tp709
-(dp710
-tp711
-Rp712
-sbsa(dp713
-g14
-I00
-sg15
-(lp714
-F1360.5831435079733
-aF717.357630979499
-asg17
-(itiddlywiki
-Tiddler
-p715
-(dp716
-g21
-VYou die from being electracuted by your hair dryer. \u000aAfter a few months:\u000a\u000a[[Mary marries Tyler]]\u000a
-p717
-sg23
-VMary matched with a guy on Burger meets Fries
-p718
-sg25
-g26
-((I2020
-I11
-I21
-I15
-I27
-I48
-I5
-I326
-I0
-tp719
-(dp720
-tp721
-Rp722
-sg31
-(lp723
-sg33
-g26
-((I2020
-I11
-I21
-I15
-I27
-I2
-I5
-I326
-I0
-tp724
-(dp725
-tp726
-Rp727
-sbsa(dp728
-g14
-I00
-sg15
-(lp729
-F1590.8929384965834
-aF725.7630979498861
-asg17
-(itiddlywiki
-Tiddler
-p730
-(dp731
-g21
-VMary and Tyler both have worthwhile and remunerative jobs. \u000aThey buy a charming house. \u000aThey have two children and they turn out well. \u000aThey have a stimulating and challenging sex life\u000aand worthwhile friends. \u000aThey go on fun vacations together. \u000aBoth retire. \u000aThey have hobbies which they find stimulating and challenging. Eventually Mary and Tyler die. \u000a\u000aThe End...\u000a\u000a[[Restart]]\u000a\u000a[[Press this after you have played three times]]
-p732
-sg23
-VMary marries Tyler
-p733
-sg25
-g26
-((I2020
-I11
-I24
-I17
-I45
-I34
-I1
-I329
-I0
-tp734
-(dp735
-tp736
-Rp737
-sg31
-(lp738
-sg33
-g26
-((I2020
-I11
-I21
-I15
-I27
-I52
-I5
-I326
-I0
-tp739
-(dp740
-tp741
-Rp742
-sbsasS'scale'
-p743
-F0.5948509485094851
-sS'snapping'
-p744
-I00
-ss.
